@@ -26,7 +26,8 @@ class MyClass
 	private int myField;
 	
 
-	//1. Get/Set 메서드 만들어서 제어
+//1. Get/Set 메서드 만들어서 제어
+
 	public int GetMyField() 
 	{
 		return myField;
@@ -38,7 +39,8 @@ class MyClass
 	}
 
 
-	//2. C# 제공 
+//2. C# 제공 
+
 	public int MyField
 	{
 		get
