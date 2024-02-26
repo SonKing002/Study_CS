@@ -1,0 +1,22 @@
+C#을 포함한 모든 .NET프로그래밍 언어는 .NET Common type System 에 정의된 .NET데이터 타입을 사용한다.
+
+C# 데이터 타입, .NET 데이터 타입으로 표현할 수 있다.
+
+내부적으로 컴파일러는 C# 키워드의 데이터 타입을 컴파일 후, .NET 데이터 타입으로 변경한다.
+
+C# 데이터 타입		.NET 데이터 타입		설명
+bool				System.Boolean			True or False
+byte				System.Byte				8bit	Unsigned Integer
+sbyte				System.SByte			8bit	signed Integer
+short				System.Int16			16bit	signed Integer
+int					System.Int32			32bit	signed Integer
+long				System.Int64			64bit	signed Integer
+ushort				System.UInt16			16bit	Unsigned Integer
+uint				Systen.UInt32			32bit	Unsigned Integer
+ulong				System.UInt64			64bit	Unsigned Integer
+float				System.Single			32bit	single precision 부동소숫점 숫자
+double				System.Double			64bit	double precision 부동소숫점 숫자
+decimal				System.Decimal			128bit	
+char				System.Char				16bit	유니코드 문자
+string				System.String					유니코드 문자열
+object				System.Object					모든 클래스의 모든 유형을 포함 시킬 수 있음

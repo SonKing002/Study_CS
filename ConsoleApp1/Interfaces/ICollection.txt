@@ -1,0 +1,60 @@
+
+ICollection : Define Size, Enumerators, and synchonization methods for nongeneric collections
+
+Namespace : System.Collections
+(상속) Inhritance : Object → ArrayList 
+(구현) Implements : ICollection, IEnumerable, IList, ICloneable
+
+
+ICollection 인터페이스는 System.Collections네임스페이스에 대한 기본 인터페이스
+이에 상응하는 인터페이스는 System.Collections.Generic.ICollection<T> 인터페이스이다.
+
+Count : Get the number of elements contained in the ICollection 
+ICollection 인터페이스에 포함된 요소의 갯수를 가져온다.
+
+
+(사이즈,열거자,동기화 메서드 정의)
+public interface ICollection : System.Collections.IEnumerable
+
+
+--------------------------------
+ICollection<T> 인터페이스
+
+Namespace : System.Collections.Generic
+(구현) Implements : IEnumerble<T> , IEnumerable
+
+public interface ICollection<T> : System.Collections.Generic.IEnumerable<T>
+
+(메서드) Methods 
+1. Add(T)	: ICollection<T>에 아이템 추가
+2. Clear()	: ICollection<T> 모든 아이템 삭제
+3. Contains(T)	: 특정 값이 있는지 확인한다  public bool Contains (T item); //return Boolean 
+
+4. CopyTo(T[] , Int32) : 특정  배열의 시작 인덱스를 복사한다. //return void
+
+	//예외 종류 :
+		ArgumentNullException		:	array is null.
+		ArgumentOutOfRangeException	:	array is less than 0.
+		ArgumentException			:	the number of elements in the source is greater than the available space of Length
+
+5. public System.IEnumerable.IEnumerator GetEnumerator();
+	콜렉션의 반복하는 열거자를 반환한다.
+
+	리턴 IEnumerator : 컬렉션을 반복하는데 사용하는 개체
+	+ 제네릭이 아닌 컬렉션에 단순 반복을 지원 public interface IEnumerator
+		bool MoveNext();
+		- 인터페이스는 직렬화 할 수 없다.
+		- 열거의 다음 요소로 열거자가 이동한 후에, 요소가 사용가능한지 여부를 나타낸다. bool값 반환
+		
+		Object Current{get;}
+		- 현재 열거 요소를 리턴
+		- MoveNext 처음 호출 전과, false 반환 이후에는 정의되지 않는다.
+		- 중간에  MoveNext 없이, GetCurrent을 계속 호출하면, 같은 값이 리턴된다.
+
+		void Reset();
+		- 재시작, 
+
+		public interface IEnumerator<out T> : IEnumerator,IDisposable
+			new T Current{get;}
+
+//https://referencesource.microsoft.com/#mscorlib/system/collections/icollection.cs,cde8022b6e680e40
