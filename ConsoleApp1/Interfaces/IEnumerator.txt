@@ -1,29 +1,68 @@
 
 
-	¸®ÅÏ IEnumerator : ÄÃ·º¼ÇÀ» ¹Ýº¹ÇÏ´Âµ¥ »ç¿ëÇÏ´Â °³Ã¼
-	+ Á¦³×¸¯ÀÌ ¾Æ´Ñ ÄÃ·º¼Ç¿¡ ´Ü¼ø ¹Ýº¹À» Áö¿ø public interface IEnumerator
+	ë¦¬í„´ IEnumerator : ì»¬ë ‰ì…˜ì„ ë°˜ë³µí•˜ëŠ”ë° ì‚¬ìš©í•˜ëŠ” ê°œì²´
+	+ ì œë„¤ë¦­ì´ ì•„ë‹Œ ì»¬ë ‰ì…˜ì— ë‹¨ìˆœ ë°˜ë³µì„ ì§€ì› public interface IEnumerator
 		bool MoveNext();
-		- ÀÎÅÍÆäÀÌ½º´Â Á÷·ÄÈ­ ÇÒ ¼ö ¾ø´Ù.
-		- ¿­°ÅÀÇ ´ÙÀ½ ¿ä¼Ò·Î ¿­°ÅÀÚ°¡ ÀÌµ¿ÇÑ ÈÄ¿¡, ¿ä¼Ò°¡ »ç¿ë°¡´ÉÇÑÁö ¿©ºÎ¸¦ ³ªÅ¸³½´Ù. bool°ª ¹ÝÈ¯
+		- ì¸í„°íŽ˜ì´ìŠ¤ëŠ” ì§ë ¬í™” í•  ìˆ˜ ì—†ë‹¤.
+		- ì—´ê±°ì˜ ë‹¤ìŒ ìš”ì†Œë¡œ ì—´ê±°ìžê°€ ì´ë™í•œ í›„ì—, ìš”ì†Œê°€ ì‚¬ìš©ê°€ëŠ¥í•œì§€ ì—¬ë¶€ë¥¼ ë‚˜íƒ€ë‚¸ë‹¤. boolê°’ ë°˜í™˜
 		
 		Object Current{get;}
-		- ÇöÀç ¿­°Å ¿ä¼Ò¸¦ ¸®ÅÏ
-		- MoveNext Ã³À½ È£Ãâ Àü°ú, false ¹ÝÈ¯ ÀÌÈÄ¿¡´Â Á¤ÀÇµÇÁö ¾Ê´Â´Ù.
-		- Áß°£¿¡  MoveNext ¾øÀÌ, GetCurrentÀ» °è¼Ó È£ÃâÇÏ¸é, °°Àº °ªÀÌ ¸®ÅÏµÈ´Ù.
+		- í˜„ìž¬ ì—´ê±° ìš”ì†Œë¥¼ ë¦¬í„´
+		- MoveNext ì²˜ìŒ í˜¸ì¶œ ì „ê³¼, false ë°˜í™˜ ì´í›„ì—ëŠ” ì •ì˜ë˜ì§€ ì•ŠëŠ”ë‹¤.
+		- ì¤‘ê°„ì—  MoveNext ì—†ì´, GetCurrentì„ ê³„ì† í˜¸ì¶œí•˜ë©´, ê°™ì€ ê°’ì´ ë¦¬í„´ëœë‹¤.
 
 		void Reset();
-		- Àç½ÃÀÛ, 
+		- ìž¬ì‹œìž‘, 
 
-		À§ ÀÎÅÍÆäÀÌ½º¿Í »óÀÀÇÏ´Â GenericÀº System.Collections.Generic.IEnumerator< T > ÀÌ´Ù
+		ìœ„ ì¸í„°íŽ˜ì´ìŠ¤ì™€ ìƒì‘í•˜ëŠ” Genericì€ System.Collections.Generic.IEnumerator< T > ì´ë‹¤
 
 		public interface IEnumerator<out T> : IEnumerator,IDisposable
 			new T Current{get;}
 
-			C# ¾ð¾îÀÇ Foreach¹®Àº ¿­°ÅÀÚÀÇ º¹Àâ¼ºÀ» ¼û±ä´Ù.
-			±×·¯¹Ç·Î, ¿­°ÅÀÚ¸¦ Á÷Á¢ Á¶ÀÛÇÏ´Â ´ë½Å foreach¹®À» »ç¿ëÇÏ´Â °ÍÀ» ÃßÃµÇÑ´Ù.
+			C# ì–¸ì–´ì˜ Foreachë¬¸ì€ ì—´ê±°ìžì˜ ë³µìž¡ì„±ì„ ìˆ¨ê¸´ë‹¤.
+			ê·¸ëŸ¬ë¯€ë¡œ, ì—´ê±°ìžë¥¼ ì§ì ‘ ì¡°ìž‘í•˜ëŠ” ëŒ€ì‹  foreachë¬¸ì„ ì‚¬ìš©í•˜ëŠ” ê²ƒì„ ì¶”ì²œí•œë‹¤.
 
-			¿­°ÅÀÚ¸¦ µ¥ÀÌÅÍ¸¦ ÀÐ´Âµ¥ »ç¿ëÇÒ ¼ö ÀÖÁö¸¸,
-			±âº» ÄÃ·º¼ÇÀ» ¼öÁ¤ÇÏ´Â ¿ëµµ·Î »ç¿ëÇÒ ¼ö ¾ø´Ù.
+			ì—´ê±°ìžë¥¼ ë°ì´í„°ë¥¼ ì½ëŠ”ë° ì‚¬ìš©í•  ìˆ˜ ìžˆì§€ë§Œ,
+			ê¸°ë³¸ ì»¬ë ‰ì…˜ì„ ìˆ˜ì •í•˜ëŠ” ìš©ë„ë¡œ ì‚¬ìš©í•  ìˆ˜ ì—†ë‹¤.
+
+BoxEnumerator:IEnumerator<Box>
+{
+    private int curIndex;
+    private BoxCollection _collection;
+    private Box curBox;
+
+    public BoxEnumerator(BoxCollection collection)
+    {
+        _collection = collection;
+        curBox = default(Box);
+        curIndex = -1;
+    }
+
+    public bool MoveNext()
+    {
+        if(++curIndex >=_collection.Count )//ë²”ìœ„ë¥¼ ë²—ì–´ë‚˜ë©´
+        {
+            return false;
+        }
+        else
+        {
+            curBox = _collection[curIndex];
+        }
+
+        return true;
+    }
+
+    public void Reset()
+    {
+        curIndex = -1;
+    }
+
+    void IDisposible.Dispose() {}
+
+    public Box current => curBox; //í”„ë¡œí¼í‹°
+    public IEnumerator.Current => Current; //í”„ë¡œí¼í‹° í˜„ìž¬ ë°•ìŠ¤
+
+}
 
 
 //https://referencesource.microsoft.com/#mscorlib/system/collections/icollection.cs,cde8022b6e680e40
