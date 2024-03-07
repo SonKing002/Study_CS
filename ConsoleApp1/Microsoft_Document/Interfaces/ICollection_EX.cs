@@ -1,8 +1,8 @@
-﻿namespace ConsoleApp1.Interfaces
+﻿namespace ConsoleApp1.Microsoft_Document.Interfaces
 {
     public interface ICollection_EX<T> : IEnumerable<T>
     {
-       int Count { get; }
+        int Count { get; }
         bool IsReadOnly { get; }
 
         void Add(T item);

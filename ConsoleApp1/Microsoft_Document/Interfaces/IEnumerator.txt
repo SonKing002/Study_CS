@@ -1,0 +1,30 @@
+
+
+	리턴 IEnumerator : 컬렉션을 반복하는데 사용하는 개체
+	+ 제네릭이 아닌 컬렉션에 단순 반복을 지원 public interface IEnumerator
+		bool MoveNext();
+		- 인터페이스는 직렬화 할 수 없다.
+		- 열거의 다음 요소로 열거자가 이동한 후에, 요소가 사용가능한지 여부를 나타낸다. bool값 반환
+		
+		Object Current{get;}
+		- 현재 열거 요소를 리턴
+		- MoveNext 처음 호출 전과, false 반환 이후에는 정의되지 않는다.
+		- 중간에  MoveNext 없이, GetCurrent을 계속 호출하면, 같은 값이 리턴된다.
+
+		void Reset();
+		- 재시작, 
+
+		위 인터페이스와 상응하는 Generic은 System.Collections.Generic.IEnumerator< T > 이다
+
+		public interface IEnumerator<out T> : IEnumerator,IDisposable
+			new T Current{get;}
+
+			C# 언어의 Foreach문은 열거자의 복잡성을 숨긴다.
+			그러므로, 열거자를 직접 조작하는 대신 foreach문을 사용하는 것을 추천한다.
+
+			열거자를 데이터를 읽는데 사용할 수 있지만,
+			기본 컬렉션을 수정하는 용도로 사용할 수 없다.
+
+
+//https://referencesource.microsoft.com/#mscorlib/system/collections/icollection.cs,cde8022b6e680e40
+//https://learn.microsoft.com/en-us/dotnet/api/system.collections.ienumerator?view=net-8.0

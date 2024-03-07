@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "S9DAZIMMcpG1G6VDLNe+bqVCmphuMbSswJZNGOeXUhPtpAXuN0FnKilTkcrsBb7p9IJGGIxzJ0OuUy8RXs+iWQ==",
+  "dgSpecHash": "ehjpz0/25srC/l/5kgzY2YOHbEqjs+kFAVzI29WhLyTSKU/57HohJIcueg1e4jMkCX/SleUKa773gSNCESmdEg==",
   "success": true,
   "projectFilePath": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\ConsoleApp1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\son\\.nuget\\packages\\microsoft.build.tasks.git\\8.0.0\\microsoft.build.tasks.git.8.0.0.nupkg.sha512",
+    "C:\\Users\\son\\.nuget\\packages\\microsoft.sourcelink.common\\8.0.0\\microsoft.sourcelink.common.8.0.0.nupkg.sha512",
+    "C:\\Users\\son\\.nuget\\packages\\microsoft.sourcelink.github\\8.0.0\\microsoft.sourcelink.github.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

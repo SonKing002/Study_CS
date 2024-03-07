@@ -1,0 +1,4 @@
+Exposes an enumerator, which supports a simple iteration over a non-generic collection.
+논 제네릭 컬렉션으로 간단한 반복을 지원하는 열거자를 노출시킨다.
+
+public Interface IEnmerable

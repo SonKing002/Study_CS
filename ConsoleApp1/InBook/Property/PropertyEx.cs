@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PropertyEx
+namespace ConsoleApp1.InBook.Property
 {
     public class BirthdayInfo
     {
@@ -8,14 +8,14 @@ namespace PropertyEx
         private DateTime birthday;
 
         public string Name
-        { 
-            get 
+        {
+            get
             {
-                return name; 
+                return name;
             }
             set
             {
-                name = value; 
+                name = value;
             }
         }
         public DateTime Birthday
@@ -30,7 +30,7 @@ namespace PropertyEx
             }
         }
         public int Age
-        { 
+        {
             get
             {
                 return new DateTime(DateTime.Now.Subtract(birthday).Ticks).Year; //public Subtract 함수 tick - this.tick
@@ -41,7 +41,7 @@ namespace PropertyEx
     public class PropertyEx
     {
         static void Main(string[] args)
-        { 
+        {
             BirthdayInfo birth = new BirthdayInfo();
             birth.Name = "서현";
             birth.Birthday = new DateTime(1991, 6, 28);

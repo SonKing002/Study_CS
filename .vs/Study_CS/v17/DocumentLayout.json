@@ -3,12 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\son\\Documents\\Github\\Study_CS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\interfaces\\icollection_ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces\\icollection_ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\moniterex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\moniterex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\interfaces\\ienumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces\\ienumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\son\\AppData\\LocalLow\\ETL7th\\CoreComponentPractices\\Inventory.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\microsoft_document\\interfaces\\ienumerableex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\microsoft_document\\interfaces\\ienumerableex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\microsoft_document\\interfaces\\ienumerable.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\microsoft_document\\interfaces\\ienumerable.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\inbook\\01_startcsharp\\start_helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inbook\\01_startcsharp\\start_helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\microsoft_document\\interfaces\\icollection_ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\microsoft_document\\interfaces\\icollection_ex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\microsoft_document\\interfaces\\ienumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\microsoft_document\\interfaces\\ienumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\microsoft_document\\interfaces\\ienumerator.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\microsoft_document\\interfaces\\ienumerator.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\microsoft_document\\interfaces\\icollection.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\microsoft_document\\interfaces\\icollection.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\data_structure\\stack.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data_structure\\stack.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\data_structure\\hashtable.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -19,64 +50,44 @@
       "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data_structure\\dynamicarray.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\interfaces\\ienumerator.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces\\ienumerator.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\inbook\\property\\propertyex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inbook\\property\\propertyex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\interfaces\\icollection.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interfaces\\icollection.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\inbook\\property\\property.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inbook\\property\\property.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\data_structure\\stack.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\data_structure\\stack.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\inbook\\1_netcsharp.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inbook\\1_netcsharp.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\01_startcsharp\\02_structure_.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\01_startcsharp\\02_structure_.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\inbook\\3_codedatatheapstack.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inbook\\3_codedatatheapstack.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\01_startcsharp\\start_helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\01_startcsharp\\start_helloworld.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\inbook\\2_oop.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inbook\\2_oop.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\inbook\\01_startcsharp\\02_structure_.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inbook\\01_startcsharp\\02_structure_.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\inbook\\01_startcsharp\\01_start.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inbook\\01_startcsharp\\01_start.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\01_startcsharp\\01_start.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\01_startcsharp\\01_start.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\inbook\\02_variabledatatype\\02_type.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inbook\\02_variabledatatype\\02_type.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\1_netcsharp.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\1_netcsharp.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\2_oop.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\2_oop.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\02_variabledatatype\\02_type.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\02_variabledatatype\\02_type.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\02_variabledatatype\\01_start.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\02_variabledatatype\\01_start.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\property\\property.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\property\\property.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\property\\propertyex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\property\\propertyex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\3_codedatatheapstack.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\3_codedatatheapstack.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\son\\documents\\github\\study_cs\\consoleapp1\\inbook\\02_variabledatatype\\01_start.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0D1FA849-DD52-4F23-AD7A-6D8FA048FC50}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\inbook\\02_variabledatatype\\01_start.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,75 +97,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "MoniterEx.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\MoniterEx.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\MoniterEx.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\MoniterEx.cs",
+              "RelativeToolTip": "ConsoleApp1\\MoniterEx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T01:50:41.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Inventory.json",
+              "DocumentMoniker": "C:\\Users\\son\\AppData\\LocalLow\\ETL7th\\CoreComponentPractices\\Inventory.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\LocalLow\\ETL7th\\CoreComponentPractices\\Inventory.json",
+              "ToolTip": "C:\\Users\\son\\AppData\\LocalLow\\ETL7th\\CoreComponentPractices\\Inventory.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\LocalLow\\ETL7th\\CoreComponentPractices\\Inventory.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAD1AgAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-05T06:41:06.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEnumerableEX.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerableEX.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerableEX.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerableEX.cs",
+              "RelativeToolTip": "ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerableEX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T03:20:08.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "ConsoleApp1",
               "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
               "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\ConsoleApp1.csproj",
               "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-26T10:26:38.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T10:26:38.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "IEnumerator.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Interfaces\\IEnumerator.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces\\IEnumerator.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Interfaces\\IEnumerator.cs",
-              "RelativeToolTip": "ConsoleApp1\\Interfaces\\IEnumerator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA/AAAA",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerator.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerator.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerator.cs",
+              "RelativeToolTip": "ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerator.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowBoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T10:03:55.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T10:03:55.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "IEnumerator.txt",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Interfaces\\IEnumerator.txt",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces\\IEnumerator.txt",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Interfaces\\IEnumerator.txt",
-              "RelativeToolTip": "ConsoleApp1\\Interfaces\\IEnumerator.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerator.txt",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerator.txt",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerator.txt",
+              "RelativeToolTip": "ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerator.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-02-26T10:02:56.735Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ICollection_EX.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Interfaces\\ICollection_EX.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces\\ICollection_EX.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Interfaces\\ICollection_EX.cs",
-              "RelativeToolTip": "ConsoleApp1\\Interfaces\\ICollection_EX.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T05:23:55.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T10:02:56.735Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ICollection.txt",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Interfaces\\ICollection.txt",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Interfaces\\ICollection.txt",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Interfaces\\ICollection.txt",
-              "RelativeToolTip": "ConsoleApp1\\Interfaces\\ICollection.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-02-26T03:55:05.591Z",
-              "EditorCaption": ""
+              "Title": "ICollection_EX.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Microsoft_Document\\Interfaces\\ICollection_EX.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Microsoft_Document\\Interfaces\\ICollection_EX.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Microsoft_Document\\Interfaces\\ICollection_EX.cs",
+              "RelativeToolTip": "ConsoleApp1\\Microsoft_Document\\Interfaces\\ICollection_EX.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T05:23:55.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "ICollection.txt",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Microsoft_Document\\Interfaces\\ICollection.txt",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Microsoft_Document\\Interfaces\\ICollection.txt",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Microsoft_Document\\Interfaces\\ICollection.txt",
+              "RelativeToolTip": "ConsoleApp1\\Microsoft_Document\\Interfaces\\ICollection.txt",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-26T03:55:05.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HashTable.txt",
               "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Data_Structure\\HashTable.txt",
               "RelativeDocumentMoniker": "ConsoleApp1\\Data_Structure\\HashTable.txt",
@@ -162,12 +206,11 @@
               "RelativeToolTip": "ConsoleApp1\\Data_Structure\\HashTable.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-02-26T00:49:02.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T00:49:02.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "DynamicArray.txt",
               "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Data_Structure\\DynamicArray.txt",
               "RelativeDocumentMoniker": "ConsoleApp1\\Data_Structure\\DynamicArray.txt",
@@ -175,51 +218,59 @@
               "RelativeToolTip": "ConsoleApp1\\Data_Structure\\DynamicArray.txt",
               "ViewState": "AQIAAEsAAAAAAAAAAAAAAFYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-02-25T23:51:15.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T23:51:15.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "01_Start.txt",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\01_StartCsharp\\01_Start.txt",
-              "RelativeDocumentMoniker": "ConsoleApp1\\01_StartCsharp\\01_Start.txt",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\01_StartCsharp\\01_Start.txt",
-              "RelativeToolTip": "ConsoleApp1\\01_StartCsharp\\01_Start.txt",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\01_StartCsharp\\01_Start.txt",
+              "RelativeDocumentMoniker": "ConsoleApp1\\InBook\\01_StartCsharp\\01_Start.txt",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\01_StartCsharp\\01_Start.txt",
+              "RelativeToolTip": "ConsoleApp1\\InBook\\01_StartCsharp\\01_Start.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-02-22T10:10:21.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T10:10:21.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "02_Structure_.txt",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\01_StartCsharp\\02_Structure_.txt",
-              "RelativeDocumentMoniker": "ConsoleApp1\\01_StartCsharp\\02_Structure_.txt",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\01_StartCsharp\\02_Structure_.txt",
-              "RelativeToolTip": "ConsoleApp1\\01_StartCsharp\\02_Structure_.txt",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\01_StartCsharp\\02_Structure_.txt",
+              "RelativeDocumentMoniker": "ConsoleApp1\\InBook\\01_StartCsharp\\02_Structure_.txt",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\01_StartCsharp\\02_Structure_.txt",
+              "RelativeToolTip": "ConsoleApp1\\InBook\\01_StartCsharp\\02_Structure_.txt",
               "ViewState": "AQIAAGYAAAAAAAAAAAAUwI0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-02-23T02:45:01.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-23T02:45:01.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Start_HelloWorld.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\01_StartCsharp\\Start_HelloWorld.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\01_StartCsharp\\Start_HelloWorld.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\01_StartCsharp\\Start_HelloWorld.cs",
-              "RelativeToolTip": "ConsoleApp1\\01_StartCsharp\\Start_HelloWorld.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\01_StartCsharp\\Start_HelloWorld.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\InBook\\01_StartCsharp\\Start_HelloWorld.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\01_StartCsharp\\Start_HelloWorld.cs",
+              "RelativeToolTip": "ConsoleApp1\\InBook\\01_StartCsharp\\Start_HelloWorld.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T10:18:10.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T10:18:10.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "IEnumerable.txt",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerable.txt",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerable.txt",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerable.txt",
+              "RelativeToolTip": "ConsoleApp1\\Microsoft_Document\\Interfaces\\IEnumerable.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-05T02:41:15.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Stack.txt",
               "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Data_Structure\\Stack.txt",
               "RelativeDocumentMoniker": "ConsoleApp1\\Data_Structure\\Stack.txt",
@@ -227,105 +278,88 @@
               "RelativeToolTip": "ConsoleApp1\\Data_Structure\\Stack.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-02-26T00:46:30.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-26T00:46:30.654Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "02_Type.txt",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\02_VariableDataType\\02_Type.txt",
-              "RelativeDocumentMoniker": "ConsoleApp1\\02_VariableDataType\\02_Type.txt",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\02_VariableDataType\\02_Type.txt",
-              "RelativeToolTip": "ConsoleApp1\\02_VariableDataType\\02_Type.txt",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\02_VariableDataType\\02_Type.txt",
+              "RelativeDocumentMoniker": "ConsoleApp1\\InBook\\02_VariableDataType\\02_Type.txt",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\02_VariableDataType\\02_Type.txt",
+              "RelativeToolTip": "ConsoleApp1\\InBook\\02_VariableDataType\\02_Type.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-02-25T23:38:10.851Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T23:38:10.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "01_Start.txt",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\02_VariableDataType\\01_Start.txt",
+              "RelativeDocumentMoniker": "ConsoleApp1\\InBook\\02_VariableDataType\\01_Start.txt",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\02_VariableDataType\\01_Start.txt",
+              "RelativeToolTip": "ConsoleApp1\\InBook\\02_VariableDataType\\01_Start.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-02-23T04:04:40.063Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "01_Start.txt",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\02_VariableDataType\\01_Start.txt",
-              "RelativeDocumentMoniker": "ConsoleApp1\\02_VariableDataType\\01_Start.txt",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\02_VariableDataType\\01_Start.txt",
-              "RelativeToolTip": "ConsoleApp1\\02_VariableDataType\\01_Start.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "1_NetCSharp.txt",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\1_NetCSharp.txt",
+              "RelativeDocumentMoniker": "ConsoleApp1\\InBook\\1_NetCSharp.txt",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\1_NetCSharp.txt",
+              "RelativeToolTip": "ConsoleApp1\\InBook\\1_NetCSharp.txt",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-02-23T04:04:40.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T10:00:08.438Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-22T10:06:47.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "1_NetCSharp.txt",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\1_NetCSharp.txt",
-              "RelativeDocumentMoniker": "ConsoleApp1\\1_NetCSharp.txt",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\1_NetCSharp.txt",
-              "RelativeToolTip": "ConsoleApp1\\1_NetCSharp.txt",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-02-22T10:00:08.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "2_OOP.txt",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\2_OOP.txt",
-              "RelativeDocumentMoniker": "ConsoleApp1\\2_OOP.txt",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\2_OOP.txt",
-              "RelativeToolTip": "ConsoleApp1\\2_OOP.txt",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\2_OOP.txt",
+              "RelativeDocumentMoniker": "ConsoleApp1\\InBook\\2_OOP.txt",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\2_OOP.txt",
+              "RelativeToolTip": "ConsoleApp1\\InBook\\2_OOP.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-02-22T10:00:08.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-22T10:00:08.442Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 13,
               "Title": "Property.txt",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Property\\Property.txt",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Property\\Property.txt",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Property\\Property.txt",
-              "RelativeToolTip": "ConsoleApp1\\Property\\Property.txt",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACgAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\Property\\Property.txt",
+              "RelativeDocumentMoniker": "ConsoleApp1\\InBook\\Property\\Property.txt",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\Property\\Property.txt",
+              "RelativeToolTip": "ConsoleApp1\\InBook\\Property\\Property.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-02-22T10:00:08.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 12,
               "Title": "PropertyEx.cs",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Property\\PropertyEx.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Property\\PropertyEx.cs",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\Property\\PropertyEx.cs",
-              "RelativeToolTip": "ConsoleApp1\\Property\\PropertyEx.cs",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\Property\\PropertyEx.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\InBook\\Property\\PropertyEx.cs",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\Property\\PropertyEx.cs",
+              "RelativeToolTip": "ConsoleApp1\\InBook\\Property\\PropertyEx.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T10:00:08.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 15,
               "Title": "3_CodeDatatHeapStack.txt",
-              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\3_CodeDatatHeapStack.txt",
-              "RelativeDocumentMoniker": "ConsoleApp1\\3_CodeDatatHeapStack.txt",
-              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\3_CodeDatatHeapStack.txt",
-              "RelativeToolTip": "ConsoleApp1\\3_CodeDatatHeapStack.txt",
+              "DocumentMoniker": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\3_CodeDatatHeapStack.txt",
+              "RelativeDocumentMoniker": "ConsoleApp1\\InBook\\3_CodeDatatHeapStack.txt",
+              "ToolTip": "C:\\Users\\son\\Documents\\Github\\Study_CS\\ConsoleApp1\\InBook\\3_CodeDatatHeapStack.txt",
+              "RelativeToolTip": "ConsoleApp1\\InBook\\3_CodeDatatHeapStack.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2024-02-22T10:00:08.366Z"
